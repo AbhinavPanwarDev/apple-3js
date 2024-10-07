@@ -15,7 +15,7 @@ import {
     {
       id: 1,
       textLists: [
-        "Enter A18 Pro.",
+        "Enter A17 Pro.",
         "Game‑changing chip.",
         "Groundbreaking performance.",
       ],
@@ -31,7 +31,7 @@ import {
     {
       id: 3,
       textLists: [
-        "iPhone 16 Pro Max has the",
+        "iPhone 15 Pro Max has the",
         "longest optical zoom in",
         "iPhone ever. Far out.",
       ],
